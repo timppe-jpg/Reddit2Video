@@ -355,3 +355,5 @@ MigrationBackup/
 *.settings
 Credentials.Designer.cs
 App.config
+/Reddit2Video/client_secret.json
+/Reddit2Video/Images/Reddit_-_logo.png
