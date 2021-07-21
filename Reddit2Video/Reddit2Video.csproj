@@ -138,7 +138,6 @@
     <Content Include="FFMPEG\bin\x64\ffprobe.exe" />
     <Content Include="FFMPEG\bin\x86\ffmpeg.exe" />
     <Content Include="FFMPEG\bin\x86\ffprobe.exe" />
-    <Content Include="Images\Reddit_-_logo.png" />
     <Content Include="Images\Untitled.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
